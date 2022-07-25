@@ -140,6 +140,7 @@ The available Healthkit identifiers are supported
 | Electrocardiogram | [HKObjectType.electrocardiogramType](https://developer.apple.com/documentation/healthkit/hkobjecttype/3552035-electrocardiogramtype?language=objc)      | ✓    |      |
 | EnvironmentalAudioExposure | [HKQuantityTypeIdentifierEnvironmentalAudioExposure](https://developer.apple.com/documentation/healthkit/hkquantitytypeidentifierenvironmentalaudioexposure?language=objc)                | ✓    |      |
 | FlightsClimbed         | [HKQuantityTypeIdentifierFlightsClimbed](https://developer.apple.com/reference/Healthkit/hkquantitytypeidentifierflightsclimbed?language=objc)                      | ✓    | ✓     |
+| DistanceDownhillSnowSports         | [HKQuantityTypeIdentifierDistanceDownhillSnowSports](https://developer.apple.com/documentation/healthkit/hkquantitytypeidentifierdistancedownhillsnowsports?language=objc)                      | ✓    |      |
 | HeadphoneAudioExposure | [HKQuantityTypeIdentifierHeadphoneAudioExposure](https://developer.apple.com/documentation/healthkit/hkquantitytypeidentifierheadphoneaudioexposure?language=objc)                | ✓    |      |
 | HeartbeatSeries        | [HKDataTypeIdentifierHeartbeatSeries](https://developer.apple.com/documentation/healthkit/hkdatatypeidentifierheartbeatseries?language=objc) | ✓    |       |
 | HeartRate              | [HKQuantityTypeIdentifierHeartRate](https://developer.apple.com/reference/Healthkit/hkquantitytypeidentifierheartrate?language=objc)                                | ✓    |       |
