@@ -93,6 +93,7 @@ AppleHealthKit.initHealthKit(permissions, (error: string) => {
   DistanceSwimming
   DistanceWalkingRunning
   FlightsClimbed
+  DistanceDownhillSnowSports
   HeartbeatSeries
   HeartRate
   RestingHeartRate
